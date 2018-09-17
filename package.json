@@ -1,0 +1,23 @@
+{
+  "name": "travelaround-site",
+  "version": "1.0.0",
+  "description": "\"Travel website.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patfeio/travelaround-site.git"
+  },
+  "author": "\"Patricia Feio\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patfeio/travelaround-site/issues"
+  },
+  "homepage": "https://github.com/patfeio/travelaround-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
